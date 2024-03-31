@@ -5,10 +5,11 @@
 
 html,body {
     font-size: 18px;
-    background-color: #f5f6f7;
+    background-color: #23272f;
 }
 h1 {
     max-width: 940px;
+    color: rgb(246 247 249);
     font-size: 2.5em;
     font-family: Lato, sans-serif;
     font-weight: 700;
